@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>watchguardsystemmanager</id>
+    <version>12.6.2</version>
+    <title>Wacthguard System Manager</title>
+    <authors>WatchGuard Technologies, Inc</authors>
+    <owners>ducksecops</owners>
+    <licenseUrl>https://www.watchguard.com/wgrd-products/watchguard-system-manager/wsm-licensing</licenseUrl>
+    <projectUrl>https://www.watchguard.com/wgrd-products/network-security/management-wsm</projectUrl>
+    <iconUrl>https://pbs.twimg.com/profile_images/1148264392993038337/1cEKQgDZ.png</iconUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <tags>watchguard system manger SPACE_SEPARATED</tags>
+    <summary>Centralized Management of All Your Watchguard Firebox Appliances</summary>
+    <description>WatchGuard System Manager (WSM) is an out-of-the-box platform that enables you to centrally manage all the Firebox appliances in your network using one easy-to-use console. Whether you are managing security as an IT professional or a managed security service provider, leverage WSM monitoring and management tools to quickly apply configuration changes to your Firebox appliances in real time or as a scheduled task.</description>
+    <releaseNotes>https://www.watchguard.com/help/docs/help-center/en-US/Content/en-US/Fireware/support/release_news_c.html</releaseNotes>
+    <copyright>WatchGuard Technologies, Inc</copyright>
+    <packageSourceUrl>https://github.com/ducksecops/chocolatey-watchguard</packageSourceUrl>
+    <docsUrl>https://www.watchguard.com/wgrd-help/documentation/xtm</docsUrl>
+  </metadata>
+</package>

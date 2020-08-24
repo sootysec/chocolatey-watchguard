@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>watchguardmobilevpn</id>
+    <version>12.5.3</version>
+    <title>Mobile VPN with SSL for Windows</title>
+    <authors>WatchGuard Technologies, Inc</authors>
+    <owners>ducksecops</owners>
+    <licenseUrl>https://www.watchguard.com/wgrd-products/watchguard-system-manager/wsm-licensing</licenseUrl>
+    <projectUrl>https://www.watchguard.com/wgrd-products/network-security/management-wsm</projectUrl>
+    <iconUrl>https://pbs.twimg.com/profile_images/1148264392993038337/1cEKQgDZ.png</iconUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <tags>watchguard mobile ssl vpn</tags>
+    <summary>WatchGuard Mobile VPN with SSL Software</summary>
+    <description>Watchguard Mobile VPN client software for Windows Operating Systems</description>
+    <releaseNotes>https://www.watchguard.com/help/docs/help-center/en-US/Content/en-US/Fireware/support/release_news_c.html</releaseNotes>
+    <copyright>WatchGuard Technologies, Inc</copyright>
+    <packageSourceUrl>https://github.com/ducksecops/chocolatey-watchguard</packageSourceUrl>
+    <docsUrl>https://www.watchguard.com/wgrd-help/documentation/xtm</docsUrl>
+  </metadata>
+</package>

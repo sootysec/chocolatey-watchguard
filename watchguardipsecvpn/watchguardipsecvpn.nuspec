@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>watchguardipsecvpn</id>
+    <version>14.0</version>
+    <title>WatchGuard IPSec Mobile VPN Client</title>
+    <authors>WatchGuard Technologies, Inc</authors>
+    <owners>ducksecops</owners>
+    <licenseUrl>https://www.watchguard.com/wgrd-products/watchguard-system-manager/wsm-licensing</licenseUrl>
+    <projectUrl>https://www.watchguard.com/wgrd-products/mobilevpn</projectUrl>
+    <iconUrl>https://pbs.twimg.com/profile_images/1148264392993038337/1cEKQgDZ.png</iconUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <tags>WatchGuard IPSec Mobile VPN Client </tags>
+    <summary>WatchGuard IPSec Mobile VPN Client </summary>
+    <description>WatchGuard IPSec Mobile VPN Client to connect to Watchguard Fireware devices</description>
+    <releaseNotes>https://www.watchguard.com/help/docs/help-center/en-US/Content/en-US/Fireware/support/release_news_c.html</releaseNotes>
+    <copyright>WatchGuard Technologies, Inc</copyright>
+    <packageSourceUrl>https://github.com/ducksecops/chocolatey-watchguard</packageSourceUrl>
+    <docsUrl>https://www.watchguard.com/wgrd-help/documentation/xtm</docsUrl>
+  </metadata>
+</package>
